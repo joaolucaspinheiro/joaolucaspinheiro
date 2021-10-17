@@ -8,7 +8,7 @@ ________________________________________________________________________________
   <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
     <img height ="80em" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
          
-    </div>
+  
 
   _______________________________________________________________________________________________________________________________
   
