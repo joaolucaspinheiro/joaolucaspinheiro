@@ -1,5 +1,5 @@
 _______________________________________________________________________________________________________________________________
-### Olá, Eu me chamo João Lucas Pinheiro, sou estudante do IFPR-Paranavaí, e atualmente estou cursando o 4º de informática 🤠🤠 
+### Olá, Eu me chamo João Lucas Pinheiro, sou estudante do IFPR-Paranavaí, em 2022 me formei como Técnico em Informática, e em 2024 comecei a cursar Engenharia de Software
 <div align="center">
   <a href="https://github.com/joaolucaspinheiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaolucaspinheiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
